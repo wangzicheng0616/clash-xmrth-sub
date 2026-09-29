@@ -141,6 +141,54 @@ proxies:
   - {"name":"*官网xmrth1.net 其他渠道均为倒卖*","type":"vmess","server":"txh000.xmrthnode.com","port":443,"uuid":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/index","headers":{"Host":"ws-aicdn.com"}},"ws-path":"/index","ws-headers":{"Host":"ws-aicdn.com"},"tls":true,"skip-cert-verify":true}
   - {"name":"*用不了请更新订阅*若失败请关代理重试*","type":"vmess","server":"txh002.xmrthnode.com","port":443,"uuid":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","alterId":0,"cipher":"auto","udp":true,"network":"ws","ws-opts":{"path":"/index","headers":{"Host":"ws-aicdn.com"}},"ws-path":"/index","ws-headers":{"Host":"ws-aicdn.com"},"tls":true,"skip-cert-verify":true}
 
+  - {"name":"ktc2s HK 41303","type":"trojan","server":"ktc2s.xmrthnode.com","port":41303,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2s HK 41304","type":"trojan","server":"ktc2s.xmrthnode.com","port":41304,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2s HK 41305","type":"trojan","server":"ktc2s.xmrthnode.com","port":41305,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2s HK 41306","type":"trojan","server":"ktc2s.xmrthnode.com","port":41306,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2s 41032","type":"trojan","server":"ktc2s.xmrthnode.com","port":41032,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2s 41033","type":"trojan","server":"ktc2s.xmrthnode.com","port":41033,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k HK 41300","type":"trojan","server":"ktc2k.xmrthnode.com","port":41300,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k HK 41301","type":"trojan","server":"ktc2k.xmrthnode.com","port":41301,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k HK 41302","type":"trojan","server":"ktc2k.xmrthnode.com","port":41302,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k HK 41305","type":"trojan","server":"ktc2k.xmrthnode.com","port":41305,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k HK 41307","type":"trojan","server":"ktc2k.xmrthnode.com","port":41307,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41021","type":"trojan","server":"ktc2k.xmrthnode.com","port":41021,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41022","type":"trojan","server":"ktc2k.xmrthnode.com","port":41022,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41024","type":"trojan","server":"ktc2k.xmrthnode.com","port":41024,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41031","type":"trojan","server":"ktc2k.xmrthnode.com","port":41031,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41032","type":"trojan","server":"ktc2k.xmrthnode.com","port":41032,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41033","type":"trojan","server":"ktc2k.xmrthnode.com","port":41033,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41034","type":"trojan","server":"ktc2k.xmrthnode.com","port":41034,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41035","type":"trojan","server":"ktc2k.xmrthnode.com","port":41035,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41040","type":"trojan","server":"ktc2k.xmrthnode.com","port":41040,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41042","type":"trojan","server":"ktc2k.xmrthnode.com","port":41042,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41043","type":"trojan","server":"ktc2k.xmrthnode.com","port":41043,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41044","type":"trojan","server":"ktc2k.xmrthnode.com","port":41044,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41051","type":"trojan","server":"ktc2k.xmrthnode.com","port":41051,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41052","type":"trojan","server":"ktc2k.xmrthnode.com","port":41052,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41053","type":"trojan","server":"ktc2k.xmrthnode.com","port":41053,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41055","type":"trojan","server":"ktc2k.xmrthnode.com","port":41055,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktc2k 41056","type":"trojan","server":"ktc2k.xmrthnode.com","port":41056,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktf2s 41031","type":"trojan","server":"ktf2s.xmrthnode.com","port":41031,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktf2s 41034","type":"trojan","server":"ktf2s.xmrthnode.com","port":41034,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"ktf2s 41035","type":"trojan","server":"ktf2s.xmrthnode.com","port":41035,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"mb2b HK 41300","type":"trojan","server":"mb2b.xmrthnode.com","port":41300,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"mb2b HK 41301","type":"trojan","server":"mb2b.xmrthnode.com","port":41301,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"mb2b HK 41302","type":"trojan","server":"mb2b.xmrthnode.com","port":41302,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"mb2b HK 41303","type":"trojan","server":"mb2b.xmrthnode.com","port":41303,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"mb2b HK 41304","type":"trojan","server":"mb2b.xmrthnode.com","port":41304,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"mb2b HK 41306","type":"trojan","server":"mb2b.xmrthnode.com","port":41306,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"mb2b HK 41307","type":"trojan","server":"mb2b.xmrthnode.com","port":41307,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24521","type":"trojan","server":"ipcc2.xmrthnode.com","port":24521,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24522","type":"trojan","server":"ipcc2.xmrthnode.com","port":24522,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24523","type":"trojan","server":"ipcc2.xmrthnode.com","port":24523,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24525","type":"trojan","server":"ipcc2.xmrthnode.com","port":24525,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24526","type":"trojan","server":"ipcc2.xmrthnode.com","port":24526,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24527","type":"trojan","server":"ipcc2.xmrthnode.com","port":24527,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24528","type":"trojan","server":"ipcc2.xmrthnode.com","port":24528,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24529","type":"trojan","server":"ipcc2.xmrthnode.com","port":24529,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+  - {"name":"IPLC 24530","type":"trojan","server":"ipcc2.xmrthnode.com","port":24530,"password":"5bafc1f1-43bc-301c-bf57-53abbf20dabc","sni":"mpvideo.qpic.cn","skip-cert-verify":true,"udp":true}
+
 proxy-groups:
 -
   name: 🔰国外流量
@@ -222,6 +270,53 @@ proxy-groups:
     - 'US 001'
     - 'US 002'
     - 'US 013'
+    - "ktc2s HK 41303"
+    - "ktc2s HK 41304"
+    - "ktc2s HK 41305"
+    - "ktc2s HK 41306"
+    - "ktc2s 41032"
+    - "ktc2s 41033"
+    - "ktc2k HK 41300"
+    - "ktc2k HK 41301"
+    - "ktc2k HK 41302"
+    - "ktc2k HK 41305"
+    - "ktc2k HK 41307"
+    - "ktc2k 41021"
+    - "ktc2k 41022"
+    - "ktc2k 41024"
+    - "ktc2k 41031"
+    - "ktc2k 41032"
+    - "ktc2k 41033"
+    - "ktc2k 41034"
+    - "ktc2k 41035"
+    - "ktc2k 41040"
+    - "ktc2k 41042"
+    - "ktc2k 41043"
+    - "ktc2k 41044"
+    - "ktc2k 41051"
+    - "ktc2k 41052"
+    - "ktc2k 41053"
+    - "ktc2k 41055"
+    - "ktc2k 41056"
+    - "ktf2s 41031"
+    - "ktf2s 41034"
+    - "ktf2s 41035"
+    - "mb2b HK 41300"
+    - "mb2b HK 41301"
+    - "mb2b HK 41302"
+    - "mb2b HK 41303"
+    - "mb2b HK 41304"
+    - "mb2b HK 41306"
+    - "mb2b HK 41307"
+    - "IPLC 24521"
+    - "IPLC 24522"
+    - "IPLC 24523"
+    - "IPLC 24525"
+    - "IPLC 24526"
+    - "IPLC 24527"
+    - "IPLC 24528"
+    - "IPLC 24529"
+    - "IPLC 24530"
     - '*官网xmrth1.net 其他渠道均为倒卖*'
     - '*用不了请更新订阅*若失败请关代理重试*'
     - ❌不代理
@@ -312,6 +407,53 @@ proxy-groups:
     - 'US 001'
     - 'US 002'
     - 'US 013'
+    - "ktc2s HK 41303"
+    - "ktc2s HK 41304"
+    - "ktc2s HK 41305"
+    - "ktc2s HK 41306"
+    - "ktc2s 41032"
+    - "ktc2s 41033"
+    - "ktc2k HK 41300"
+    - "ktc2k HK 41301"
+    - "ktc2k HK 41302"
+    - "ktc2k HK 41305"
+    - "ktc2k HK 41307"
+    - "ktc2k 41021"
+    - "ktc2k 41022"
+    - "ktc2k 41024"
+    - "ktc2k 41031"
+    - "ktc2k 41032"
+    - "ktc2k 41033"
+    - "ktc2k 41034"
+    - "ktc2k 41035"
+    - "ktc2k 41040"
+    - "ktc2k 41042"
+    - "ktc2k 41043"
+    - "ktc2k 41044"
+    - "ktc2k 41051"
+    - "ktc2k 41052"
+    - "ktc2k 41053"
+    - "ktc2k 41055"
+    - "ktc2k 41056"
+    - "ktf2s 41031"
+    - "ktf2s 41034"
+    - "ktf2s 41035"
+    - "mb2b HK 41300"
+    - "mb2b HK 41301"
+    - "mb2b HK 41302"
+    - "mb2b HK 41303"
+    - "mb2b HK 41304"
+    - "mb2b HK 41306"
+    - "mb2b HK 41307"
+    - "IPLC 24521"
+    - "IPLC 24522"
+    - "IPLC 24523"
+    - "IPLC 24525"
+    - "IPLC 24526"
+    - "IPLC 24527"
+    - "IPLC 24528"
+    - "IPLC 24529"
+    - "IPLC 24530"
     - '*官网xmrth1.net 其他渠道均为倒卖*'
     - '*用不了请更新订阅*若失败请关代理重试*'
 -
